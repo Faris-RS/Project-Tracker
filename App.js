@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Project starts here</Text>
       <Text>Sahad was here</Text>
+      <Text>Faris was also here</Text>
       <StatusBar style="auto" />
     </View>
   );

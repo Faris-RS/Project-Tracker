@@ -5,6 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>MERGING BRANCH</Text>
+      <Text>Sahad was here</Text>
+      <Text>Faris was also here</Text>
       <StatusBar style="auto" />
     </View>
   );

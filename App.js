@@ -4,9 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Faris was here</Text>
-      <Text>Sahad was here</Text>
-      <Text>Ameen was here</Text>
+      <Text>MERGING BRANCH</Text>
       <StatusBar style="auto" />
     </View>
   );

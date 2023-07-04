@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Ameen here</Text>
       <Text>Ameen here</Text>
-      <Text>Ameen here</Text>
+      <Text>Ameen here again </Text>
       <StatusBar style="auto" />
     </View>
   );

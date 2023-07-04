@@ -4,9 +4,11 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-    <Text>MERGING BRANCH</Text>
+ <Text>MERGING BRANCH</Text>
       <Text>Sahad was here</Text>
       <Text>Faris was also here</Text>     
+      <Text>Faris was not here</Text>
+
       <Text>Ameen here</Text>
       <Text>Ameen here</Text>
       <Text>Ameen here</Text> 
